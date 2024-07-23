@@ -1,4 +1,4 @@
-# 5-arms-robot-with-5-degree-of-freedom
+# arms-robot-with-5-degree-of-freedom
 
 Introduction:
 

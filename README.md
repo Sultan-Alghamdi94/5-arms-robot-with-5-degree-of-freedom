@@ -15,6 +15,7 @@ Wrist Joint: The fourth motor is located at the wrist joint. This joint enables 
 End Effector (Gripper): Finally, the fifth motor controls the end effector, often a gripper or tool. This motor allows for precise movements and manipulations, providing the fifth degree of freedom. The gripper can open and close, allowing the arm to grasp and release objects.
 
 
+![Screenshot (691)](https://github.com/user-attachments/assets/7923eada-b2c5-4177-b657-d882588d0a36)
 
 
 ![Copy of 5 dof robotic arm](https://github.com/user-attachments/assets/fcbf5440-3376-43a2-9399-eab4199ba8e4)

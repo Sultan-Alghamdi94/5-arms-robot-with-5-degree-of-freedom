@@ -16,8 +16,5 @@ End Effector (Gripper): Finally, the fifth motor controls the end effector, ofte
 
 
 
-![Screenshot (688)](https://github.com/user-attachments/assets/a272478d-5a5c-4824-aa9e-613b938d5b68)
-
-![Screenshot (689)](https://github.com/user-attachments/assets/e8ce5dff-ac76-4b36-98df-ab0b67a0aebb)
 
 ![Copy of 5 dof robotic arm](https://github.com/user-attachments/assets/fcbf5440-3376-43a2-9399-eab4199ba8e4)

@@ -1,9 +1,11 @@
 # 5-arms-robot-with-5-degree-of-freedom
 
 Introduction:
+
 This project showcases a robotic arm with five motors, providing it with five degrees of freedom (DOF). Such an arm is commonly used in various industrial applications, including assembly, welding, material handling, and precise manipulation tasks. The design and functionality of the arm allow for a wide range of movements, making it a versatile tool in automated systems.
 
 Description
+
 The robotic arm depicted in the image consists of multiple segments connected by joints, each powered by an individual motor. Here's a detailed breakdown of its components and capabilities:
 
 Base Motor: The arm is mounted on a base that houses the first motor, enabling the entire structure to rotate horizontally. This motor provides the first degree of freedom, allowing the arm to swivel left and right.
